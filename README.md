@@ -7,13 +7,16 @@
 * [インターナショナル・オープンデータ・デイ 2019 (GitHubページ)](https://github.com/okfj/odd19)
 * [インターナショナル・オープンデータ・デイ 2019 (GitHub Wiki)](https://github.com/okfj/odd19/wiki)
 
+### International Open Data Day 
+
+* [International Open Data Day](http://opendataday.org/)
+
 ### 一般社団法人オープン・ナレッジ・ファウンデーション・ジャパン
 
 * [Open Knowledge Japan (OKJP)](http://okfn.jp/)
 * [Twitter](https://twitter.com/okfj)
 * [Facebook Page](https://www.facebook.com/OKFjp)
 * [GitHub](https://github.com/okfj)
-* [Open Data Day website](http://opendataday.org/)
 
 License
 -----
