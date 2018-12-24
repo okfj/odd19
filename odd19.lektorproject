@@ -1,2 +1,9 @@
 [project]
 name = odd19
+
+[servers.ghpages]
+name = ghpages
+enabled = yes
+default = yes
+target = ghpages://okfj/odd19?cname=odd.okfn.jp
+
