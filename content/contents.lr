@@ -15,7 +15,7 @@ banner_content_1:
 ---
 banner_content_2:
 
-2019年3月2日(土)
+3月2日(土)開催
 
 ---
 intro_heading:
@@ -51,9 +51,14 @@ year_intro:
 * 日時：2019年3月2日（土）
 * 会場：世界各地の会場
 * Twitterタグ：
-    - 日本語：#オープンデータデイ
-    - 英語：#OpenDataDay
+    - 日本語：#オープンデータデイ　<a href="https://twitter.com/intent/tweet?button_hashtag=オープンデータデイ&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #オープンデータデイ</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    - 英語：#OpenDataDay　<a href="https://twitter.com/intent/tweet?button_hashtag=OpenDataDay&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #OpenDataDay</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 * 世界のWebサイト: [International Open Data Day](http://opendataday.org/)
+
+#### イベント当日のOpen Knowledge Japan(OKJP)からの情報発信
+* 日本メディアセンター: 詳細が決まり次第お知らせします。
+* [YouTube Live - OKJPチャンネル](https://www.youtube.com/channel/UC1otQXoutpSfUmwzPn3EQ3Q)
+* [OKJPからのお知らせ](https://github.com/okfj/odd19/wiki)
 
 ### 開催方法
 イベントは、日本の各地(都道府県、市区町村等)でさまざまな有志の主催者が、行政や市民などの 協力を得て自主的に開催します。
@@ -63,8 +68,13 @@ year_intro:
 #### イベント主催者の方へ
 オープンデータデイ2019のイベントを開催される方はこちらから登録をお願いします。
 
-* [オープンデータデイ 2019　国内開催地登録](
+* [日本国内の開催地登録](
 https://docs.google.com/forms/d/e/1FAIpQLSdDF4RQXh-oEdKFlv3EkXkQO3O0tye8P8QHZ9SNelNRrXKIZA/viewform)
+* [世界の開催地登録](https://docs.google.com/forms/d/e/1FAIpQLSe43pgb7-nnF_x9AjKu9ieQ10B-qSRu7ek7YNR1QRHfRC4ong/viewform)
+    * [世界の開催地登録情報](https://docs.google.com/spreadsheets/d/1cV43fuzwy2q2ZKDWrHVS6XR4O8B01eLevh4PD6nCENE/edit#gid=706382316)
+    * [Looking for the Latitude/Longitude Finder?](https://mynasadata.larc.nasa.gov/basic-page/looking-latitudelongitude-finder)
+* [イベント主催者連絡用Facebookコミュニティ](https://www.facebook.com/groups/154102518072665/)
+* [オープンデータ・デイのロゴを作ろう](http://logo.odd.okfn.jp/)
 
 ### 参加者
 どなたでも参加できます。 地域のことをよく知りたい方、みんなで取組む課題をお持ちの方、オープンデータを活用するアイデアのある方、
@@ -75,7 +85,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdDF4RQXh-oEdKFlv3EkXkQO3O0tye8P8QHZ9SN
 #### 事前準備：
 
 * 開催地域と主催者の事前登録<br>
- → Open Knowledgeのサイトで呼び掛けています
+ → Open Knowledge Japan(OKJP)のサイトで呼び掛けています
 * 企画・会場等の準備<br>
  → イベントは各主催者が行います。Open Knowledgeは支援します
 * イベント告知と参加者の募集
@@ -84,7 +94,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdDF4RQXh-oEdKFlv3EkXkQO3O0tye8P8QHZ9SN
 * イベントで取組むテーマの設定<br>
  → できるだけ参加型で決めることをお勧めします
 * アイデアやデータの事前収集・公開<br>
- → Open Knowledgeは国内の情報共有を支援します
+ → Open Knowledge Japan(OKJP)は国内の情報共有を支援します
 
 #### 当日：
 
@@ -95,20 +105,35 @@ https://docs.google.com/forms/d/e/1FAIpQLSdDF4RQXh-oEdKFlv3EkXkQO3O0tye8P8QHZ9SN
  → 開催地名（できれば英語で「Tokyo, Japan」というように）表記した紙や横断幕などと一緒に、参加者の記念撮影をしてTweetしてください。<br>
  → 写真は開催記録として使わせていただきたいと思います。
 
+### ハッカソンで生まれた資産を死蔵させないために：ハッカソン・メイカソン参加同意書のおすすめ
+
+ハッカソンを通じて事業化に繋がる可能性のあるアイディアや、それを表現・実現したスケッチ、モックアップ、企画・プレゼン資料などが生み出されることは多いと思います。
+
+ただ、ハッカソンが終わった後に、それらを活用して具体的なプロジェクトとして進めたり、既存のプロジェクトに組み入れたりしようかという段になると、誰にどういう許諾をもらったらいいかがわからなくなることもあると思います。
+
+これを防止するには、ハッカソンの主催者が「ハッカソン・メイカソン参加同意書」を使って、参加者に権利に関する意思表示をしてもらうように促すことができます。イベント開始時に、同意書にサインしてもらい、終了後一週間以内に各種成果物の権利や公開についての連絡を提出してもらう、という方式で、そのためのテンプレートを弁護士の監修の下、用意しています。
+
+同意書と、終了後の確認書
+* [参加同意書](https://github.com/IAMAS/makeathon_agreement/blob/master/agreement.md>)
+* [終了後の確認書](https://github.com/IAMAS/makeathon_agreement/blob/master/confirmation.md)
+
+この同意書の使い方やハッカソン関連の知財に関するFAQ
+* [ハッカソン／メイカソン参加同意書および終了後の確認書に関するFAQ](https://github.com/IAMAS/makeathon_agreement/blob/master/FAQ.md)
+
 ### Open Knowledge Japan(OKJP)の役割
 
 国内で開催されるイベントの支援や、全体のコーディネート、世界にむけた情報発信などを行います。   
-詳細はOpen Knowledge Japan(OKJP)のウェブサイト<http://okfn.jp> をご覧ください。
+詳細はOpen Knowledge Japan(OKJP)のウェブサイト<http://okfn.jp> をご覧ください。<br>
+多数のみなさまのご参加をお待ちしております。Enjoy International OpenData Day!
 
 * インターナショナルオープンデータデイ全体に関する告知やメディア対応
 * 各地の主催者の募集と各種ご相談対応
 * アイデアや公的データを公開し共有するためのデータポータルやサイトの提供
 * ハッカソンの成果を共有するためのショーケースサイトの構築
 * 日本におけるオープンデータデイ全体のスポンサー開拓や行政機関などへの協力要請
+* イベント当日は、日本メディアセンターより情報発信
 
 #### 参加申し込み・問い合わせ
 
 * Facebook: [Open Data Day 主催者連絡用コミュニティ](https://www.facebook.com/groups/154102518072665/)
 * メール: <a href="mailto:info@okfn.jp">info@okfn.jp</a>
-
-
